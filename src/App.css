@@ -1,0 +1,43 @@
+body{
+  background-color: #cc9bcc;
+}
+
+.calc-wrapper{
+  background-color: #d37988;
+  border-radius: 1em;
+  padding: 1em;
+}
+
+.botao{
+  width: 3em;
+  height: 3em;
+  font-size: 1.5em;
+  font-weight: bold;
+  border: none;
+  border-radius: 2em;
+  color: #55393c;
+  background-color: #cc9bcc;
+  margin: 0.3em;
+  cursor: pointer;
+}
+
+.igual{
+  width: 4.9em;
+  height: 2.2em;
+  font-size: 2em;
+  font-weight: bold;
+  border: none;
+  border-radius: 2em;
+  color: #55393c;
+  background-color: #cc9bcc;
+  margin: 0.3em;
+  cursor: pointer;
+}
+
+.visor{
+  color: #55393c;
+  background-color: #cc9bcc;
+  text-align: end;
+  padding: 0.7em;
+  border-radius: 0.4em;
+}
